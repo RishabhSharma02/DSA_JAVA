@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class DSA_38 {
     public static void main(String[] args) {
-        int[] arr={4,5,6,1,2,3};
+        int[] arr={5,4,3,2,1};
         insertion_sort(arr);
         System.out.println(Arrays.toString(arr));
 
